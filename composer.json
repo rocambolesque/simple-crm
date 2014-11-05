@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpunit/phpunit": "~4.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "MeilleursAgents\\": "src/",
+            "MeilleursAgents\\Tests": "tests/"
+        }
+    }
+}
